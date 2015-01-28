@@ -33,3 +33,8 @@ server {
     }
 }
 ```
+Wordpress with postgresql
+
+[Russel enables PG4WP](http://russellhaering.com/wordpress-with-ngingx-and-postgresql/)
+
+[PostgreSQL for WordPress (PG4WP)](https://wordpress.org/plugins/postgresql-for-wordpress/installation/)
